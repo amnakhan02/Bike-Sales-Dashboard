@@ -1,4 +1,4 @@
-                                                # Bike-Sales-Dashboard
+# Bike-Sales-Dashboard
 # Project Overview
 This project features an interactive Bike Sales Dashboard developed using Microsoft Excel. The dashboard is built to analyze and visualize customer data related to bike purchases, providing a comprehensive view of how various demographic and behavioral factors influence buying decisions. With the use of slicers, pivot tables, and dynamic charts, users can filter the data based on attributes like marital status, education level, region, and occupation to uncover targeted insights.
 The dashboard focuses on key metrics such as average income per purchase, age group comparisons, and customer commute distances. It allows users to explore patterns in purchasing behavior—such as which age groups are most likely to purchase bikes, how income varies by gender and buyer status, and how commuting distance correlates with bike ownership. This makes the tool valuable for marketers, analysts, and decision-makers looking to better understand their customer base and optimize sales strategies accordingly
